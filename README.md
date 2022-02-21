@@ -1,5 +1,5 @@
 # Getting_and_Cleaning_Data_Final_Project
-## Regarding my overall presentation of the project
+## Regarding why my tidy data set looks like that
 First of all, I am not sure I understood the instructions. They ask me to merge the training and test data sets based on the type of activity and the people who these data sets correspond to. However, looking at the X_test.txt file, for instance, how can I know what each number represents?
 For my code, I have assumed that every set of six values represents the collection of values for the activities of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING respectively , in other words, a row in the data set (sorry if my English is not good).
 Based on this, the purpose of the script is to get the mean and standard deviation for each activity, both for the training and data sets and put it altogether on a data frame.
