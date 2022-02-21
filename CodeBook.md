@@ -3,3 +3,9 @@ The text you are looking at the txt file is what the output of my code is suppos
 - Means_of_train_data: This are the means of the train data set grouped by the type of activity (standing, laying, etc).
 - StndrdDev_of_test_Data: This are the standard deviations of the test data set grouped by the type of activity (standing, laying, etc).
 - StndrdDev_of_train_Data: This are the standard deviations of the train data set grouped by the type of activity (standing, laying, etc).
+- 1: The first row stands for the mean and standard deviation values for the activity of WALKING.
+- 2: The second row stands for the mean and standard deviation values for the activity of WALKING UPSTAIRS.
+- 3: The third row stands for the mean and standard deviation values for the activity of WALKING DOWNSTAIRS.
+- 4: The fourth row stands for the mean and standard deviation values for the activity of SITTING.
+- 5: The fifth row stands for the mean and standard deviation values for the activity of STANDING.
+- 6: The sixth row stands for the mean and standard deviation values for the activity of LAYING.
